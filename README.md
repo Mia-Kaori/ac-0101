@@ -1,8 +1,8 @@
 # AC0101 · ¿Qué es DevOps?
 
-> **Módulo:** Despliegue de Aplicaciones Web
-> **Ciclo:** DAW (Desarrollo de Aplicaciones Web) · Curso 2026/2027
-> **Autora:** Kaori
+> **Módulo:** Despliegue de Aplicaciones Web<br>
+> **Ciclo:** DAW (Desarrollo de Aplicaciones Web) · Curso 2026/2027<br>
+> **Autora:** Kaori<br>
 > **Fuente:** [¿En qué consisten las DevOps? – Amazon Web Services](https://aws.amazon.com/es/devops/what-is-devops/)
 
 ---
